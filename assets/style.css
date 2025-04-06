@@ -1,0 +1,51 @@
+.css-j5r0tf {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color:cadetblue;
+  }
+  
+  .diagnosis {
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+    text-align: center;
+    text-decoration-color: antiquewhite;
+  }
+  
+  .diagnosis.benign {
+    background-color: #01DB4B
+  }
+  
+  .diagnosis.malicious {
+    background-color: #ff4b4b
+  }
+  .st-emotion-cache-1ljttms {
+    background-color: cadetblue;
+  }
+  #cell-cluster-prediction{
+    background-color: rgb(81, 81, 175);
+    padding: 0.3em 0.3em;
+    border-radius: 0.5em;
+  }
+.st-emotion-cache-73a7tt{
+  background-color: #7E99AB;
+}
+#breast-cancer-predictor{
+  background-color: #7269a1;
+  padding: 0.2em 0.5em;
+  border-radius: 0.5em;
+  text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+  text-align: center;
+}
+.stButton>button:hover {
+  background-color: #45a049;
+}
+.info-text {
+  font-size: 16px;
+  color: #555;
+  text-align: justify;
+  margin-bottom: 20px;
+}
